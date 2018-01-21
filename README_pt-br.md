@@ -121,11 +121,11 @@ console.log('hello, world!') // > hello, world!
 const foo = function () {}
 ```
 
-# 👀 Examples
+# 👀 Exemplos
 
 ## `[]` is equal `![]`
 
-Array is equal not array:
+Um Array vazio eh igual a negacao de um array vazio:
 
 ```js
 [] == ![] // -> true
